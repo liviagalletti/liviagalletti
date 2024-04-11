@@ -15,7 +15,7 @@
 </ul>
 
 <a href="https://github.com/liviagalletti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviagalletti&amp;show_icons=true&amp;theme=radical">
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviagalletti&amp;show_icons=true&amp;theme=radical"> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=liviagalletti&amp;theme=radical&amp;layout=compact&amp;exclude_lang=java+r">
 </a>
 
