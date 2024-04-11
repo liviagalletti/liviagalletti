@@ -1,5 +1,5 @@
 
-<h2>I'm Lívia Galletti.</h2>
+<h2>Hello! I'm Lívia Galletti.</h2>
 
 <h3> 💻 &nbsp;About Me </h3>
 <ul>
@@ -27,4 +27,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=liviagalletti&amp;theme=radical&amp;layout=compact&amp;exclude_lang=java+r">
 </a>
 
+<h3>Feel free to explore my portfolio below.</h3>
 
