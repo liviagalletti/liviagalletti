@@ -1,4 +1,4 @@
-<h3 id="hi-there">Hi there 👋</h3>
+
 <h2>I'm Lívia.</h2>
 <h3> 💻 &nbsp;About Me </h3>
 <ul>
