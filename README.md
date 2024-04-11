@@ -27,6 +27,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=liviagalletti&amp;theme=radical&amp;layout=compact&amp;exclude_lang=java+r">
 </a>
 
-<h3>Feel free to explore some of my projects.</h3>
-[Portfolio](https://github.com/liviagalletti/portfolio)
+<h3>Feel free to explore some of my projects. <a href="https://github.com/liviagalletti/portfolio">Portfolio</a>
+
+
 
