@@ -1,15 +1,17 @@
-### Olá, Eu sou a Lívia Galletti
-<!--
-**liviagalletti/liviagalletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 id="hi-there">Hi there 👋</h3>
+<h2>I'm Lívia.</h2>
+<h3> 💻 &nbsp;About Me </h3>
+<ul>
+<li>🎓 &nbsp; Studying Software Development at Brigham Young University Idaho.</li>
+</ul>
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<ul>
+<li>🌐 &nbsp;
+<img src="https://img.shields.io/badge/-HTML-333333?style=flat&amp;logo=HTML5" alt="HTML">
+<img src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">
+<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript">
+<li>🔧 &nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code"></li>
+</ul>
+<p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
